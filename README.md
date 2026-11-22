@@ -12,7 +12,7 @@ Focused on **embedded systems firmware (ESP32/Arduino, C/C++, PlatformIO)**, **a
 | Project | Stack | Highlights |
 |---|---|---|
 | [**Autonomous Ball Collector Robot**](https://github.com/MamoudAlaa/autonomous-ball-collector) | Dual ESP32, C/C++, Kotlin, YOLOv8n (TFLite), UWB | Mecanum drive, real-time vision, UWB Step-and-Wait turret, dual-flywheel launcher |
-| [**Minesweepers Demining Robot**](https://github.com/MamoudAlaa/minesweepers-demining-robot) | SOLIDWORKS, Embedded Systems, Metal Detection | 4th Place Nationwide & Promising Team Award (Minesweepers 2026) |
+| [**Minesweepers Demining Robot**](https://github.com/MamoudAlaa/minesweepers-demining-robot) | SOLIDWORKS, Embedded Systems, Metal Detection | 4th Place Nationwide & The Spirit of Minesweeper Award (Minesweepers 2026) |
 | [**Custom Quadcopter Drone**](https://github.com/MamoudAlaa/quadcopter-drone) | ESP32, C++, ESP-FC, Betaflight, ESP-NOW, SOLIDWORKS | Custom X-frame, MPU6050 flight controller, 50 Hz 6-ch ESP-NOW remote |
 | [**IoT Air Quality Monitoring**](https://github.com/MamoudAlaa/iot-air-quality-monitoring) | ESP32, DHT22, MQ135, I2C LCD, Blynk, ThingSpeak | Non-blocking dual-cloud telemetry, pollution alerts, live LCD feedback |
 | [**Automatic Light Tracking System**](https://github.com/MamoudAlaa/automatic-light-tracking-system) | LabVIEW (LINX), Arduino, LDR, Servo | Closed-loop solar tracker with 2nd-order transfer function control model |
